@@ -1,4 +1,4 @@
-# kickstart.nvim
+
 
 ### Introduction
 
@@ -19,6 +19,9 @@ Distribution Alternatives:
 ### Installation
 
 * Backup your previous configuration (if any exists)
+  ## Package repository
+    you can install LSP or other packages for languages via
+    https://mason-registry.dev/registry/list
 
 ### Archive Installation
 * On the home/landing page for the project find the blue "<> CODE" button click it and select Local > Download ZIP.
